@@ -1,4 +1,2 @@
-HOLD THE SWORD WHEN EXECUTING    |
-||||||||||||||||||||||||||||||||||
-
+script_key="ENTER YOUR KEY";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e77fd12b109c78e338fa3b46dd5e3429.lua"))()
