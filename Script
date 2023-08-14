@@ -1,2 +1,3 @@
-script_key="ENTER YOUR KEY";
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e77fd12b109c78e338fa3b46dd5e3429.lua"))()
+-- HOLD SWORD WHEN EXECUTING
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/eb0a430e47cf21bb64b7ffb34f88a71e.lua"))()
