@@ -1,3 +1,3 @@
 -- HOLD SWORD WHEN EXECUTING
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/eb0a430e47cf21bb64b7ffb34f88a71e.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/21d8cd2997b60a03cfd1f1a0455d1fb4.lua"))()
